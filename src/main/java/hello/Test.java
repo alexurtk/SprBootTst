@@ -7,6 +7,7 @@ public class Test {
     int a;
     int b;
     int c;
+    int d;
 
     public Test(int a) {
         this.a = a;
@@ -16,5 +17,10 @@ public class Test {
         this.a = a;
         this.b = b;
         this.c = c;
+    }
+
+    public Test(int b, int d) {
+        this.b = b;
+        this.d = d;
     }
 }
