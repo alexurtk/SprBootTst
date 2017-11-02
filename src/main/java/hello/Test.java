@@ -11,6 +11,8 @@ public class Test {
     int e;
     int f;
 
+    static String asd;
+
 
     public Test(int a) {
         this.a = a;
@@ -34,5 +36,9 @@ public class Test {
         this.d = d;
         this.e = e;
         this.f = f;
+    }
+
+    public static void main(String[] args) {
+        asd = "test";
     }
 }
