@@ -40,5 +40,6 @@ public class Test {
 
     public static void main(String[] args) {
         asd = "test";
+        asd += "test";
     }
 }
