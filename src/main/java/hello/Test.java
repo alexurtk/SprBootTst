@@ -17,6 +17,8 @@ public class Test {
     static String asd2;
     static String asd3;
 
+    static int abc;
+
 
     public Test(int a) {
         this.a = a;
