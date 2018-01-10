@@ -13,6 +13,10 @@ public class Test {
 
     static String asd;
 
+    static String asd1;
+    static String asd2;
+    static String asd3;
+
 
     public Test(int a) {
         this.a = a;
