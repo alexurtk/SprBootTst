@@ -15,12 +15,13 @@ public class Application extends SpringBootServletInitializer {
         return application.sources(Application.class);
     }
 
-    public void lol(){
+    public void lol1(){
 
     }
 
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
+        System.out.println("test1");
     }
 
     public void test(){
