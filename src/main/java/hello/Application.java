@@ -23,7 +23,13 @@ public class Application extends SpringBootServletInitializer {
     }
     public void lol1(){
 
+    }
+
     public void lol2(){
+        System.out.println("test lol2");
+    }
+
+    public void lol3(){
         System.out.println("test lol2");
     }
 
