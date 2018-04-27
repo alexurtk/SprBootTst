@@ -22,7 +22,7 @@ public class Application extends SpringBootServletInitializer {
         System.out.println("test lol");
     }
     public void lol1(){
-
+        System.out.println("test lol");
     }
 
     public void lol2(){
