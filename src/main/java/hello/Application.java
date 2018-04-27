@@ -19,11 +19,11 @@ public class Application extends SpringBootServletInitializer {
     }
 
     public void lol(){
-
+        System.out.println("test lol");
     }
 
     public void lol2(){
-
+        System.out.println("test lol2");
     }
 
     public static void main(String[] args) {
