@@ -25,6 +25,7 @@ public class Application extends SpringBootServletInitializer {
     }
 
     public void test(){
+        System.out.println("test123");
         System.out.println("test2");
     }
 }
