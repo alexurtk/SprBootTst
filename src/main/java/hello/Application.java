@@ -21,6 +21,7 @@ public class Application extends SpringBootServletInitializer {
     public void lol(){
         System.out.println("test lol");
     }
+    public void lol1(){
 
     public void lol2(){
         System.out.println("test lol2");
@@ -29,9 +30,11 @@ public class Application extends SpringBootServletInitializer {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
         System.out.println("test");
+        System.out.println("test1");
     }
 
     public void test(){
+        System.out.println("test123");
         System.out.println("test2");
     }
 }
