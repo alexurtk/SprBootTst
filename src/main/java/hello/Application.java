@@ -12,10 +12,17 @@ public class Application extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+        System.out.println("test");
+        System.out.println("test");
+        System.out.println("test");
         return application.sources(Application.class);
     }
 
     public void lol(){
+
+    }
+
+    public void lol2(){
 
     }
 
